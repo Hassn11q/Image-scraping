@@ -27,13 +27,3 @@ Replace "your_query_here" with the specific term you want to search for. Adjust 
 Check the specified output directory for the scraped images.
 How it works
 The script utilizes the pygoogle-image library to perform image scraping from Google. It fetches images based on the provided query, downloads them, and saves them to the specified output directory.
-
-Notes
-Respect Google's terms of service and usage policies while scraping images.
-
-The quality and quantity of images retrieved might vary based on the search query and current internet conditions.
-
-License
-This project is licensed under the MIT License.
-
-This revised README file provides clearer instructions on how to install the required library, run the image scraping script, and handle parameters for the scraping process. Adjustments can be made according to your specific script or additional information you want to include.
